@@ -1,5 +1,5 @@
 {
-    "name": "mpc/model",
+    "name": "jenssegers/model",
     "description": "An Laravel eloquent-like model class, for Laravel and other frameworks",
     "keywords": ["laravel", "eloquent", "model"],
     "homepage": "https://github.com/jenssegers/model",
